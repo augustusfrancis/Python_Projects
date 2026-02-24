@@ -1,0 +1,2 @@
+# ATM Simulation
+This project is a command-line ATM simulation built in Python using object-oriented programming principles. It allows users to create bank accounts, generate PINs, deposit and withdraw money, and manage balances with daily withdrawal limits. The system includes PIN-based authentication and persists account data using Python’s pickle module, ensuring information is saved between sessions. This project demonstrates practical implementation of OOP, file handling, and basic banking logic in a structured, real-world simulation.
