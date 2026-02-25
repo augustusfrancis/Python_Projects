@@ -27,7 +27,7 @@
 ## ▶️ How to Run
 
 Run:
-python your_file_name.py
+python library.py
 
 ## 📌 Learning Highlights
 - Object-Oriented Programming (OOP)
