@@ -50,3 +50,8 @@ This project is a command-line ATM simulation built in Python using object-orien
     - State persistence
     - Input validation
     - Basic banking logic simulation
+
+## ▶️ How to Run
+
+Run:
+python library.py
