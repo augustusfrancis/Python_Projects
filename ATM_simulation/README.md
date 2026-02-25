@@ -54,4 +54,4 @@ This project is a command-line ATM simulation built in Python using object-orien
 ## ▶️ How to Run
 
 Run:
-python library.py
+python atm.py
