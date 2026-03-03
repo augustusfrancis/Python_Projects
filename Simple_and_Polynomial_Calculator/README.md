@@ -28,9 +28,9 @@ Solves quadratic equations of the form:
 ## 🖥️ Menu System
 After running:
 
-1: simple math calculator
-2: quadratic equation solver
-3: exit
+- 1: simple math calculator
+- 2: quadratic equation solver
+- 3: exit
 
 Choose the desired option and follow the prompts.
 
